@@ -28,3 +28,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/sql_study.iml
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/.gitignore
